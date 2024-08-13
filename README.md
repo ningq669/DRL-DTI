@@ -3,7 +3,7 @@ DRL-DTI: Duplex representation learning for drug-target interactions prediction 
 ### Quick start
 We provide an example script to run experiments on our dataset: 
 
-- Run `./MNCL-DTI/main.py`: predict drug-target interactions. 
+- Run `./DRL-DTI/main.py`: predict drug-target interactions. 
 
 ### All process
  -Run `./main.py`   You can run the entire model
