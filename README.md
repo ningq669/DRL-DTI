@@ -1,5 +1,5 @@
-## MNCL-DTI:
-MNCL-DTI: prediction of drug-target interactions based on meta-path and neighbor contrastive learning
+## DRL-DTI:
+DRL-DTI: Duplex representation learning for drug-target interactions prediction with meta-path and drug-target pair contrastive learning
 ### Quick start
 We provide an example script to run experiments on our dataset: 
 
